@@ -1,2 +1,4 @@
-# iwd16-codelab-git
-Atividades do codelab de git - International Women's Day BH 2016
+# Codelab Git - International Women's Day
+
+Adicione o seu nome abaixo, com o seu perfil do GitHub!
+- Ana Carolina Rezende Soares - @annesoares
